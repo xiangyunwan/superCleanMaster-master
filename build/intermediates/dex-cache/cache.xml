@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\android_github\superCleanMaster-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="D:\android_github\superCleanMaster-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-21.0.3_e6a5efded86bbf177f50061a3bf9723023b12228.jar" />
+    </item>
+    <item
+        jar="D:\android_github\superCleanMaster-master\app\libs\SocialSDK_QQZone_2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4a69b33758dcba3ef519cbd4b6c8af5f41603c4f">
+        <dex dex="D:\android_github\superCleanMaster-master\app\build\intermediates\pre-dexed\debug\SocialSDK_QQZone_2_5510a98518e25ba8e6102d77ea2ebcc55c8c0e86.jar" />
+    </item>
+    <item
+        jar="D:\android_github\superCleanMaster-master\app\libs\SocialSDK_Sina.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="fd07c18d274be387922d55964e04cb418133c80f">
+        <dex dex="D:\android_github\superCleanMaster-master\app\build\intermediates\pre-dexed\debug\SocialSDK_Sina_e956ba693c461b47dab1810b12a4d84233b9d916.jar" />
+    </item>
+    <item
+        jar="D:\android_github\superCleanMaster-master\app\libs\SocialSDK_laiwang_2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="6d0b4d7e24b935fbe93d548eb1ce37d50dc42888">
+        <dex dex="D:\android_github\superCleanMaster-master\app\build\intermediates\pre-dexed\debug\SocialSDK_laiwang_2_b2a4f23e64661c7da8488dbeff09152c83927219.jar" />
+    </item>
+    <item
+        jar="D:\android_github\superCleanMaster-master\app\libs\SocialSDK_laiwang_1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="5778375ae0d0aa13d1e8f810116bce0672ad7973">
+        <dex dex="D:\android_github\superCleanMaster-master\app\build\intermediates\pre-dexed\debug\SocialSDK_laiwang_1_15a0eed42dc2b09f5cf4b5d94e9412c054c5532f.jar" />
+    </item>
+    <item
+        jar="D:\android_github\superCleanMaster-master\app\libs\umeng-update-v2.5.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7bfd85d65a43fcf2cd343f11c13ad29bc3965a1f">
+        <dex dex="D:\android_github\superCleanMaster-master\app\build\intermediates\pre-dexed\debug\umeng-update-v2.5.0_129c6284d0d073eaf4a26c3d37568d2d1115ee60.jar" />
+    </item>
+    <item
+        jar="D:\android_github\superCleanMaster-master\app\build\intermediates\exploded-aar\com.nhaarman.listviewanimations\lib-manipulation\3.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="5660e4bf78904137e90e62a5d4cc2e987258f02c">
+        <dex dex="D:\android_github\superCleanMaster-master\app\build\intermediates\pre-dexed\debug\com.nhaarman.listviewanimations-lib-manipulation-3.1.0_54d4c0db881923d343f09f4a51557fbe35eaba67.jar" />
+    </item>
+    <item
+        jar="D:\android_github\superCleanMaster-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="D:\android_github\superCleanMaster-master\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-21.0.3_01adabcd7842864cf61a81d7662f91916503b82c.jar" />
+    </item>
+    <item
+        jar="F:\JavaIDE\android_sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="D:\android_github\superCleanMaster-master\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3_458bdc61b14f9a8c6f445996d1cae5539e85335d.jar" />
+    </item>
+    <item
+        jar="D:\android_github\superCleanMaster-master\app\libs\SocialSDK_QQZone_3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d57cae1dcd1eeeec2cd8197fcdd7a0316216481e">
+        <dex dex="D:\android_github\superCleanMaster-master\app\build\intermediates\pre-dexed\debug\SocialSDK_QQZone_3_093fd196ecd156390f47c1c0a5c46676325e5f97.jar" />
+    </item>
+    <item
+        jar="D:\android_github\superCleanMaster-master\app\libs\umeng_social_sdk.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="857c78387c5b911f5dc9b20b307f0edfd16befed">
+        <dex dex="D:\android_github\superCleanMaster-master\app\build\intermediates\pre-dexed\debug\umeng_social_sdk_7879516dc78eeaaec992f9bc965a8a85a733d684.jar" />
+    </item>
+    <item
+        jar="D:\android_github\superCleanMaster-master\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b8945fc23a7461c6fdde15753456d64b0a9358b">
+        <dex dex="D:\android_github\superCleanMaster-master\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-21.0.3_89e34be0df6756a049e4b9d25337b9ec69bcfbbf.jar" />
+    </item>
+    <item
+        jar="D:\android_github\superCleanMaster-master\app\build\intermediates\exploded-aar\com.nhaarman.listviewanimations\lib-core-slh\3.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="49223278ec2ede1d05d00868c5ce3e077b4016f8">
+        <dex dex="D:\android_github\superCleanMaster-master\app\build\intermediates\pre-dexed\debug\com.nhaarman.listviewanimations-lib-core-slh-3.1.0_ae275e205f2f11905c3b94f013aca89ccc8ad423.jar" />
+    </item>
+    <item
+        jar="D:\android_github\superCleanMaster-master\app\libs\SocialSDK_WeiXin_2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ec0faf74d92d4882d9be51b1b9ebb5ebc83fbea7">
+        <dex dex="D:\android_github\superCleanMaster-master\app\build\intermediates\pre-dexed\debug\SocialSDK_WeiXin_2_2c7b6a02d3426dcdd2feb825e18065d9efcecdaf.jar" />
+    </item>
+    <item
+        jar="D:\android_github\superCleanMaster-master\app\build\intermediates\exploded-aar\com.nhaarman.listviewanimations\lib-core\3.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="acf66033b1418ccf9e15c8e77750981e4809c4ea">
+        <dex dex="D:\android_github\superCleanMaster-master\app\build\intermediates\pre-dexed\debug\com.nhaarman.listviewanimations-lib-core-3.1.0_df5cb389b68f982d46cc3404500fd53188aafe01.jar" />
+    </item>
+    <item
+        jar="D:\android-studio\gradle\gradle-2.10-all\gradle-2.8-all\caches\modules-2\files-2.1\com.umeng.analytics\analytics\5.6.7\bf324c2f968604935d48434b57832aaaca91def0\analytics-5.6.7.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="bf324c2f968604935d48434b57832aaaca91def0">
+        <dex dex="D:\android_github\superCleanMaster-master\app\build\intermediates\pre-dexed\debug\analytics-5.6.7_2bdb5bff983aa4befbcedc87b0996ac45e4b966c.jar" />
+    </item>
+    <item
+        jar="D:\android_github\superCleanMaster-master\app\build\intermediates\exploded-aar\com.hannesdorfmann.smoothprogressbar\library\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b0c4e77822421eb57e484df72ebb208b62df93e8">
+        <dex dex="D:\android_github\superCleanMaster-master\app\build\intermediates\pre-dexed\debug\com.hannesdorfmann.smoothprogressbar-library-1.0.0_8be324142b2d403e0cb0dcf7af89021d6ed58783.jar" />
+    </item>
+    <item
+        jar="D:\android_github\superCleanMaster-master\app\build\intermediates\exploded-aar\superCleanMaster-master\library\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d51ee073642ae2b2bd6e1e5117f92ccaea479ab4">
+        <dex dex="D:\android_github\superCleanMaster-master\app\build\intermediates\pre-dexed\debug\superCleanMaster-master-library-unspecified_a6f1b12370f8aeedc1a07ac3f50b10df14562365.jar" />
+    </item>
+    <item
+        jar="D:\android_github\superCleanMaster-master\app\libs\nineoldandroids-2.4.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="59f19e43354d32de831379c23ce03bb259a4c2b7">
+        <dex dex="D:\android_github\superCleanMaster-master\app\build\intermediates\pre-dexed\debug\nineoldandroids-2.4.0_0e15497f617db51c9db19bc72a4c63d2e434ee44.jar" />
+    </item>
+    <item
+        jar="D:\android_github\superCleanMaster-master\app\libs\SocialSDK_sms.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="5cdbc35bf51e70cf589157dea2648dbf8795b062">
+        <dex dex="D:\android_github\superCleanMaster-master\app\build\intermediates\pre-dexed\debug\SocialSDK_sms_5f249b8de32045d7b4f76ed6568a43a958455796.jar" />
+    </item>
+    <item
+        jar="D:\android_github\superCleanMaster-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="D:\android_github\superCleanMaster-master\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3_355cff2e36512003c52b3bf9ffe62f4a2ef25396.jar" />
+    </item>
+    <item
+        jar="D:\android-studio\gradle\gradle-2.10-all\gradle-2.8-all\caches\modules-2\files-2.1\com.jakewharton\butterknife\6.0.0\3a10b25b6820e19102e118711afe6a66c0bae123\butterknife-6.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3a10b25b6820e19102e118711afe6a66c0bae123">
+        <dex dex="D:\android_github\superCleanMaster-master\app\build\intermediates\pre-dexed\debug\butterknife-6.0.0_1c087b9deb04c2269833c0075a51af91a10c1f44.jar" />
+    </item>
+    <item
+        jar="D:\android_github\superCleanMaster-master\app\libs\SocialSDK_QQZone_1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c184c69f43b1fe46390f7123717c65bd844bccb6">
+        <dex dex="D:\android_github\superCleanMaster-master\app\build\intermediates\pre-dexed\debug\SocialSDK_QQZone_1_57a91c5e5fc895294efc1edde7824f3ea1079d0d.jar" />
+    </item>
+    <item
+        jar="D:\android_github\superCleanMaster-master\app\libs\SocialSDK_WeiXin_1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d7c2f29c05b35e8c8713be2b81c41cf18f98b64a">
+        <dex dex="D:\android_github\superCleanMaster-master\app\build\intermediates\pre-dexed\debug\SocialSDK_WeiXin_1_4e02cab5bee42017d8a5d17a093d76dd648ac615.jar" />
+    </item>
+    <item
+        jar="D:\android_github\superCleanMaster-master\app\build\intermediates\exploded-aar\com.github.castorflex.smoothprogressbar\library-circular\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e3dfc7e44f8fde989ba4e8a5fdde34d9a32447c6">
+        <dex dex="D:\android_github\superCleanMaster-master\app\build\intermediates\pre-dexed\debug\com.github.castorflex.smoothprogressbar-library-circular-1.0.0_aed6322b9e2ec8449bea140a4f3cea5f4069671e.jar" />
+    </item>
+    <item
+        jar="D:\android_github\superCleanMaster-master\app\libs\httpmime-4.1.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e70d34d98f7f7f3b2b92105b9f2fe2a7a7184461">
+        <dex dex="D:\android_github\superCleanMaster-master\app\build\intermediates\pre-dexed\debug\httpmime-4.1.3_a302cfc3f6790510a1f81b326d08167c9ceab778.jar" />
+    </item>
+    <item
+        jar="D:\android_github\superCleanMaster-master\app\build\intermediates\exploded-aar\com.github.gabrielemariotti.changeloglib\library\1.5.2\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="494089d9d84042634d2be0355702e96805f847d3">
+        <dex dex="D:\android_github\superCleanMaster-master\app\build\intermediates\pre-dexed\debug\com.github.gabrielemariotti.changeloglib-library-1.5.2_27739fe0b16b67cc41cdf069edf3109b22904b05.jar" />
+    </item>
+
+</items>
